@@ -1,1 +1,1 @@
-# nuedc-innovation-association-dhu
+# dhunuedc.github.io
